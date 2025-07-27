@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2c9da88.css",
+    "main.js": "/static/js/main.e1d4bf24.js",
+    "static/js/453.a931b5fb.chunk.js": "/static/js/453.a931b5fb.chunk.js",
+    "static/media/image2.jpg": "/static/media/image2.04f14f81d5ac6b53661b.jpg",
+    "static/media/audi.jpg": "/static/media/audi.b25ee6dc08ce864d18f6.jpg",
+    "static/media/green.jpg": "/static/media/green.64621c5c5ea0feac27ff.jpg",
+    "static/media/swift.jpg": "/static/media/swift.ad83f6238e05f62346f3.jpg",
+    "static/media/kia.jpg": "/static/media/kia.82026bfda2ce5ca250a7.jpg",
+    "static/media/hondaaccord.webp": "/static/media/hondaaccord.b3ee494ab8f3be01c9d6.webp",
+    "static/media/care.jpg": "/static/media/care.3c389a01a1420255ef6c.jpg",
+    "static/media/cultus.jpg": "/static/media/cultus.cd04af91e8fa111d9078.jpg",
+    "static/media/toyotafortuner.webp": "/static/media/toyotafortuner.c23850f0bdd7252aad3a.webp",
+    "static/media/hondabrv.jpg": "/static/media/hondabrv.01c86c23a36ece52b33e.jpg",
+    "static/media/pajero.jpg": "/static/media/pajero.fd322a715eeb9bfc4da6.jpg",
+    "static/media/bmw5.avif": "/static/media/bmw5.8fe7795e363e9338edd3.avif",
+    "static/media/suzuki.avif": "/static/media/suzuki.bf1f6b5c507df2b15ec8.avif",
+    "static/media/hondacity.jpg": "/static/media/hondacity.bf5262a0a47588c4ea33.jpg",
+    "static/media/hillix.jpeg": "/static/media/hillix.b4aea45fe09b986820d4.jpeg",
+    "index.html": "/index.html",
+    "main.a2c9da88.css.map": "/static/css/main.a2c9da88.css.map",
+    "main.e1d4bf24.js.map": "/static/js/main.e1d4bf24.js.map",
+    "453.a931b5fb.chunk.js.map": "/static/js/453.a931b5fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2c9da88.css",
+    "static/js/main.e1d4bf24.js"
+  ]
+}

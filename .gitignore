@@ -1,0 +1,29 @@
+# Node.js specific ignores (for both backend and frontend)
+node_modules/
+npm-debug.log
+yarn-error.log
+.env # Crucial: Don't commit sensitive environment variables!
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build outputs
+build/ # For React/frontend build output (if not deployed separately)
+dist/
+
+# OS and IDE specific files
+.DS_Store
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Dependency directories (specific to your backend/frontend if not caught by node_modules/)
+# /backend/node_modules/ # If node_modules is not at project root
+# /frontend/node_modules/ # If node_modules is not at project root
+
+# Any other sensitive files or large files you don't want to track
